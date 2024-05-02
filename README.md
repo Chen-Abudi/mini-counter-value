@@ -17,6 +17,7 @@ This a practice project in React, showcasing a mini counter value. The main focu
 - Redux
 - CSS Modules
 - React-Redux Hooks
+- ReduxJS Toolkit
 
 ---
 
