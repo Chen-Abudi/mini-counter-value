@@ -40,6 +40,8 @@ const Counter = () => {
 
 export default Counter;
 
+// An example for redux in class-based components:
+
 // class Counter extends Component {
 //   incrementHandler() {
 //     this.props.increment();
